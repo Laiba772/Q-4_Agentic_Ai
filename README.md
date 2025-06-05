@@ -8,7 +8,7 @@ This repository contains:
 - 💻 **Projects**  
 - 📝 **Assignments**  
 
-## 📚 Led by Faculty: **Laiba Naz**  
+## 📚 Led by Faculty: **Asharib Ali**  
 Stay updated with the latest resources, practice materials, and assignments provided throughout the sessions.  
 
 Happy coding 🚀
