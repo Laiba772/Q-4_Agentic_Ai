@@ -1,14 +1,15 @@
-# GIAIC Quarter-4 (Monday 2-5) Session
+dynamic instruction(editable) -> (run time pr cheezo ko change krna).
+static intstruction -> (one time instruction).
 
-<a href="https://www.governorsindh.com/"><img src="https://i.ibb.co/qMrV0Ggj/giaic.png" alt="giaic" border="0"></a>
+by default LLM ki turns 10 set hoti hai.
+
+MODEL SETTING --> issay hum agent ki creativity level ko 100% bharha sakty han.
+
+temperture --> 
+tools choice -->
 
 
-## 📌 What You’ll Find Here  
-This repository contains:  
-- 💻 **Projects**  
-- 📝 **Assignments**  
-
-## 📚 Led by Faculty: **Asharib Ali**  
-Stay updated with the latest resources, practice materials, and assignments provided throughout the sessions.  
-
-Happy coding 🚀
+today topic.
+dynamic instruction.
+model setting
+propertice model.
